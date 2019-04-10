@@ -1,0 +1,13 @@
+集合
+collection 有序（存入和取出的顺序相同）
+集合删除中用迭代器或者普通for循环删除 iterator.remove();
+for(){
+Student s=list.get(i);
+if(){
+list.remove();
+i--;z
+}
+}
+java.util.ConcurrentModificationExcepton 并发修改异常(list.remove()会出现这种异常)
+
+

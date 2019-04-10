@@ -1,0 +1,11 @@
+try{
+    进行异常处理
+}catch(){}
+
+参数异常（入参检查）
+    throw 手动抛出异常 异常对象     eg: throw new IllegalArXXXX();
+    throws 异常类                   eg:throws IllegalArXXXX{ }
+
+受查异常 必须处理 trycatch throw
+非受查异常 课不做处理
+
